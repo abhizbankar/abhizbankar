@@ -7,9 +7,9 @@ Freelance full stack developer in Pune, working with clients anywhere. I build w
 ### Tech stack
 
 **Languages** &nbsp; `TypeScript` `JavaScript` `Python` `HTML` `CSS`  
-**Frontend** &nbsp; `React` `Next.js` `Astro` `Zustand` `TipTap`  
-**Backend** &nbsp; `Node.js` `FastAPI` `Frappe` `Socket.IO`  
-**Data** &nbsp; `MariaDB` `Redis`  
-**DevOps** &nbsp; `Git` `GitHub Actions` `Docker` `Linux` `Cloudflare`  
-**Testing and monitoring** &nbsp; `Vitest` `Playwright` `Sentry`  
+**Frontend** &nbsp; `React` `Next.js` `Astro` `Vite` `Tailwind CSS` `three.js`  
+**Backend** &nbsp; `Node.js` `Express` `FastAPI` `Frappe` `Prisma`  
+**Data** &nbsp; `PostgreSQL` `MariaDB` `Redis`  
+**DevOps** &nbsp; `Git` `GitHub Actions` `Docker` `Linux` `Cloudflare Workers` `Vercel`  
+**Testing and quality** &nbsp; `Vitest` `Playwright` `SonarQube` `Sentry`  
 **Integrations** &nbsp; `Microsoft Graph` `Entra ID` `WhatsApp Business API`
